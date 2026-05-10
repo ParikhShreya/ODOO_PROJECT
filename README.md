@@ -35,27 +35,18 @@ Traveloop provides a basic system where users can:
 
 ## Features
 
-### Trip Planning
-Users can create a trip and add destinations, dates, and activities.
-
-### Budget Estimation
-Shows approximate cost of travel, stay, and activities.
-
-### City Selection
-Users can explore and add cities to their itinerary.
-
-### Notes & Checklist
-Users can write notes and create packing lists.
-
-### Share Trip
-Trip plans can be shared with friends.
+### Smart Trip Planner
+Auto-organized itinerary builder based on cities and dates
+### Budget Planner & Estimator
+Trip cost breakdown (travel + stay + activities)
+### City & Experience Explorer
+Discover places, attractions, and add directly to trip
+### Travel Notes & Smart Checklist
+Packing list + reminders in one place
+### Collaborative Trip Sharing
+Share and plan trips with friends in real time
 
 ## Tech Stack
-
-- Python  
-- PostgreSQL  
-- HTML / CSS  
-- JavaScript  
 
 ## Goal
 
