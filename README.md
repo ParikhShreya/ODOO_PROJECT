@@ -45,7 +45,7 @@ npm run dev
 ## 🎥 Live Demo
 
 Watch the project demo video here:  
-https://tinyurl.com/5n7kknyy  
+https://tinyurl.com/2uza32hm
 
 ##  Team
 
