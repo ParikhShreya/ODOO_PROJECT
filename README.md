@@ -54,4 +54,4 @@ Team leader : Shreya Parikh
 Mentor : Ravi Bhingradiya
 
 Frontend runs on: http://localhost:5173  
-Make sure PostgreSQL is running before starting backend  
+backend runs on : http://localhost:5000
